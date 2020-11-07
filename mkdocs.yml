@@ -1,0 +1,6 @@
+site_name: Republic of Nova Archives
+theme: cinder
+nav:
+    - Home: index.md
+    - Constitution: constitution.md
+    - Laws: laws.md
